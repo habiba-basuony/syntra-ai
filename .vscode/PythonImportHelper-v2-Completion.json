@@ -1,0 +1,1019 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisRequest",
+        "importPath": "app.models.requests.analysis_request",
+        "description": "app.models.requests.analysis_request",
+        "isExtraImport": true,
+        "detail": "app.models.requests.analysis_request",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisRequest",
+        "importPath": "app.models.requests.analysis_request",
+        "description": "app.models.requests.analysis_request",
+        "isExtraImport": true,
+        "detail": "app.models.requests.analysis_request",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisResponse",
+        "importPath": "app.models.responses.analysis_response",
+        "description": "app.models.responses.analysis_response",
+        "isExtraImport": true,
+        "detail": "app.models.responses.analysis_response",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisResponse",
+        "importPath": "app.models.responses.analysis_response",
+        "description": "app.models.responses.analysis_response",
+        "isExtraImport": true,
+        "detail": "app.models.responses.analysis_response",
+        "documentation": {}
+    },
+    {
+        "label": "TaskItem",
+        "importPath": "app.models.responses.analysis_response",
+        "description": "app.models.responses.analysis_response",
+        "isExtraImport": true,
+        "detail": "app.models.responses.analysis_response",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_project",
+        "importPath": "app.services.analysis_service",
+        "description": "app.services.analysis_service",
+        "isExtraImport": true,
+        "detail": "app.services.analysis_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_llm",
+        "importPath": "app.core.llm_factory",
+        "description": "app.core.llm_factory",
+        "isExtraImport": true,
+        "detail": "app.core.llm_factory",
+        "documentation": {}
+    },
+    {
+        "label": "get_llm",
+        "importPath": "app.core.llm_factory",
+        "description": "app.core.llm_factory",
+        "isExtraImport": true,
+        "detail": "app.core.llm_factory",
+        "documentation": {}
+    },
+    {
+        "label": "get_llm",
+        "importPath": "app.core.llm_factory",
+        "description": "app.core.llm_factory",
+        "isExtraImport": true,
+        "detail": "app.core.llm_factory",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentationRequest",
+        "importPath": "app.models.requests.documentation_request",
+        "description": "app.models.requests.documentation_request",
+        "isExtraImport": true,
+        "detail": "app.models.requests.documentation_request",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentationRequest",
+        "importPath": "app.models.requests.documentation_request",
+        "description": "app.models.requests.documentation_request",
+        "isExtraImport": true,
+        "detail": "app.models.requests.documentation_request",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentationResponse",
+        "importPath": "app.models.responses.documentation_response",
+        "description": "app.models.responses.documentation_response",
+        "isExtraImport": true,
+        "detail": "app.models.responses.documentation_response",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentationResponse",
+        "importPath": "app.models.responses.documentation_response",
+        "description": "app.models.responses.documentation_response",
+        "isExtraImport": true,
+        "detail": "app.models.responses.documentation_response",
+        "documentation": {}
+    },
+    {
+        "label": "generate_documentation",
+        "importPath": "app.services.documentation_service",
+        "description": "app.services.documentation_service",
+        "isExtraImport": true,
+        "detail": "app.services.documentation_service",
+        "documentation": {}
+    },
+    {
+        "label": "MiniPathRequest",
+        "importPath": "app.models.requests.mini_paths_request",
+        "description": "app.models.requests.mini_paths_request",
+        "isExtraImport": true,
+        "detail": "app.models.requests.mini_paths_request",
+        "documentation": {}
+    },
+    {
+        "label": "MiniPathRequest",
+        "importPath": "app.models.requests.mini_paths_request",
+        "description": "app.models.requests.mini_paths_request",
+        "isExtraImport": true,
+        "detail": "app.models.requests.mini_paths_request",
+        "documentation": {}
+    },
+    {
+        "label": "MiniPathResponse",
+        "importPath": "app.models.responses.mini_paths_response",
+        "description": "app.models.responses.mini_paths_response",
+        "isExtraImport": true,
+        "detail": "app.models.responses.mini_paths_response",
+        "documentation": {}
+    },
+    {
+        "label": "MiniPathResponse",
+        "importPath": "app.models.responses.mini_paths_response",
+        "description": "app.models.responses.mini_paths_response",
+        "isExtraImport": true,
+        "detail": "app.models.responses.mini_paths_response",
+        "documentation": {}
+    },
+    {
+        "label": "PathStep",
+        "importPath": "app.models.responses.mini_paths_response",
+        "description": "app.models.responses.mini_paths_response",
+        "isExtraImport": true,
+        "detail": "app.models.responses.mini_paths_response",
+        "documentation": {}
+    },
+    {
+        "label": "generate_mini_path",
+        "importPath": "app.services.mini_paths_service",
+        "description": "app.services.mini_paths_service",
+        "isExtraImport": true,
+        "detail": "app.services.mini_paths_service",
+        "documentation": {}
+    },
+    {
+        "label": "mini_paths",
+        "importPath": "app.api.v1.routes",
+        "description": "app.api.v1.routes",
+        "isExtraImport": true,
+        "detail": "app.api.v1.routes",
+        "documentation": {}
+    },
+    {
+        "label": "analysis",
+        "importPath": "app.api.v1.routes",
+        "description": "app.api.v1.routes",
+        "isExtraImport": true,
+        "detail": "app.api.v1.routes",
+        "documentation": {}
+    },
+    {
+        "label": "documentation",
+        "importPath": "app.api.v1.routes",
+        "description": "app.api.v1.routes",
+        "isExtraImport": true,
+        "detail": "app.api.v1.routes",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ANALYSIS_SYSTEM_PROMPT",
+        "importPath": "app.prompts.analysis_prompt",
+        "description": "app.prompts.analysis_prompt",
+        "isExtraImport": true,
+        "detail": "app.prompts.analysis_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "build_analysis_prompt",
+        "importPath": "app.prompts.analysis_prompt",
+        "description": "app.prompts.analysis_prompt",
+        "isExtraImport": true,
+        "detail": "app.prompts.analysis_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "AIServiceException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AIServiceException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AIServiceException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AIServiceException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ai_exception_handler",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "clean_llm_json",
+        "importPath": "app.core.utils",
+        "description": "app.core.utils",
+        "isExtraImport": true,
+        "detail": "app.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "clean_llm_json",
+        "importPath": "app.core.utils",
+        "description": "app.core.utils",
+        "isExtraImport": true,
+        "detail": "app.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "clean_llm_json",
+        "importPath": "app.core.utils",
+        "description": "app.core.utils",
+        "isExtraImport": true,
+        "detail": "app.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DOCUMENTATION_SYSTEM_PROMPT",
+        "importPath": "app.prompts.documentation_prompt",
+        "description": "app.prompts.documentation_prompt",
+        "isExtraImport": true,
+        "detail": "app.prompts.documentation_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "build_documentation_prompt",
+        "importPath": "app.prompts.documentation_prompt",
+        "description": "app.prompts.documentation_prompt",
+        "isExtraImport": true,
+        "detail": "app.prompts.documentation_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "MINI_PATHS_SYSTEM_PROMPT",
+        "importPath": "app.prompts.mini_paths_prompt",
+        "description": "app.prompts.mini_paths_prompt",
+        "isExtraImport": true,
+        "detail": "app.prompts.mini_paths_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "build_mini_paths_prompt",
+        "importPath": "app.prompts.mini_paths_prompt",
+        "description": "app.prompts.mini_paths_prompt",
+        "isExtraImport": true,
+        "detail": "app.prompts.mini_paths_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsConfigDict",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGroq",
+        "importPath": "langchain_groq",
+        "description": "langchain_groq",
+        "isExtraImport": true,
+        "detail": "langchain_groq",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "run_analysis_chain",
+        "importPath": "app.chains.analysis_chain",
+        "description": "app.chains.analysis_chain",
+        "isExtraImport": true,
+        "detail": "app.chains.analysis_chain",
+        "documentation": {}
+    },
+    {
+        "label": "run_documentation_chain",
+        "importPath": "app.chains.documentation_chain",
+        "description": "app.chains.documentation_chain",
+        "isExtraImport": true,
+        "detail": "app.chains.documentation_chain",
+        "documentation": {}
+    },
+    {
+        "label": "run_mini_paths_chain",
+        "importPath": "app.chains.mini_paths_chain",
+        "description": "app.chains.mini_paths_chain",
+        "isExtraImport": true,
+        "detail": "app.chains.mini_paths_chain",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.api.v1.router",
+        "description": "app.api.v1.router",
+        "isExtraImport": true,
+        "detail": "app.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncClient",
+        "importPath": "httpx",
+        "description": "httpx",
+        "isExtraImport": true,
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncClient",
+        "importPath": "httpx",
+        "description": "httpx",
+        "isExtraImport": true,
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncClient",
+        "importPath": "httpx",
+        "description": "httpx",
+        "isExtraImport": true,
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app.main",
+        "description": "app.main",
+        "isExtraImport": true,
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app.main",
+        "description": "app.main",
+        "isExtraImport": true,
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app.main",
+        "description": "app.main",
+        "isExtraImport": true,
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.routes.analysis",
+        "description": "app.api.v1.routes.analysis",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/analyze\", response_model=AnalysisResponse)\nasync def analysis_endpoint(\n    request: AnalysisRequest,\n    llm: ChatGoogleGenerativeAI = Depends(get_llm)\n):\n    \"\"\"\n    Feature 07 — AI Analysis & Recommendations\n    Evaluates a project idea, estimates timeline & risks,\n    suggests tech stack, and distributes tasks across the team.",
+        "detail": "app.api.v1.routes.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.routes.documentation",
+        "description": "app.api.v1.routes.documentation",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/document\", response_model=DocumentationResponse)\nasync def documentation_endpoint(\n    request: DocumentationRequest,\n    llm: ChatGoogleGenerativeAI = Depends(get_llm)\n):\n    \"\"\"\n    Feature 08 — Auto Documentation & Reporting\n    Generates SRS, Weekly Reports, Gantt Charts, or Final Presentations\n    based on project data and team progress.",
+        "detail": "app.api.v1.routes.documentation",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.routes.mini_paths",
+        "description": "app.api.v1.routes.mini_paths",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/mini-path\", response_model=MiniPathResponse)\nasync def mini_path_endpoint(\n    request: MiniPathRequest,\n    llm: ChatGoogleGenerativeAI = Depends(get_llm)\n):\n    \"\"\"\n    Feature 02 — Mini Learning Paths\n    Generates a short learning path to fill a skill gap for a team member.\n    Triggered by Feature 06 when a skill gap is detected.",
+        "detail": "app.api.v1.routes.mini_paths",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.router",
+        "description": "app.api.v1.router",
+        "peekOfCode": "router = APIRouter(prefix=\"/api/ai\")\nrouter.include_router(mini_paths.router, tags=[\"Mini Learning Paths\"])\nrouter.include_router(analysis.router, tags=[\"AI Analysis\"])\nrouter.include_router(documentation.router, tags=[\"Auto Documentation\"])",
+        "detail": "app.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    GROQ_API_KEY: str = \"\"\n    APP_NAME: str = \"Syntra.AI\"\n    DEBUG: bool = True\n    model_config = SettingsConfigDict(env_file=\".env\", extra=\"ignore\")\nsettings = Settings()",
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "AIServiceException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class AIServiceException(Exception):\n    def __init__(self, message: str, status_code: int = 500):\n        self.message = message\n        self.status_code = status_code\n        super().__init__(message)\nasync def ai_exception_handler(request: Request, exc: AIServiceException):\n    return JSONResponse(\n        status_code=exc.status_code,\n        content={\"error\": exc.message}\n    )",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "get_llm",
+        "kind": 2,
+        "importPath": "app.core.llm_factory",
+        "description": "app.core.llm_factory",
+        "peekOfCode": "def get_llm() -> ChatGroq:\n    return ChatGroq(\n        model=\"llama-3.3-70b-versatile\",\n        api_key=settings.GROQ_API_KEY,\n        temperature=0.7,\n    )",
+        "detail": "app.core.llm_factory",
+        "documentation": {}
+    },
+    {
+        "label": "clean_llm_json",
+        "kind": 2,
+        "importPath": "app.core.utils",
+        "description": "app.core.utils",
+        "peekOfCode": "def clean_llm_json(raw_text: str) -> dict:\n    \"\"\"\n    Cleans LLM response and parses it as JSON.\n    Handles cases where Gemini wraps output in markdown code blocks.\n    \"\"\"\n    text = raw_text.strip()\n    # Remove markdown code blocks: ```json ... ``` or ``` ... ```\n    text = re.sub(r\"^```(?:json)?\\s*\", \"\", text)\n    text = re.sub(r\"\\s*```$\", \"\", text)\n    text = text.strip()",
+        "detail": "app.core.utils",
+        "documentation": {}
+    },
+    {
+        "label": "TeamMember",
+        "kind": 6,
+        "importPath": "app.models.requests.analysis_request",
+        "description": "app.models.requests.analysis_request",
+        "peekOfCode": "class TeamMember(BaseModel):\n    name: str\n    role: str\n    skills: List[str]\n    hours_per_week: int\nclass AnalysisRequest(BaseModel):\n    project_idea: str\n    team: List[TeamMember]",
+        "detail": "app.models.requests.analysis_request",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisRequest",
+        "kind": 6,
+        "importPath": "app.models.requests.analysis_request",
+        "description": "app.models.requests.analysis_request",
+        "peekOfCode": "class AnalysisRequest(BaseModel):\n    project_idea: str\n    team: List[TeamMember]",
+        "detail": "app.models.requests.analysis_request",
+        "documentation": {}
+    },
+    {
+        "label": "DocType",
+        "kind": 6,
+        "importPath": "app.models.requests.documentation_request",
+        "description": "app.models.requests.documentation_request",
+        "peekOfCode": "class DocType(str, Enum):\n    SRS = \"SRS\"\n    WEEKLY_REPORT = \"weekly_report\"\n    GANTT = \"gantt\"\n    FINAL_PRESENTATION = \"final_presentation\"\nclass TaskInfo(BaseModel):\n    title: str\n    assigned_to: str\n    status: str\n    due_date: Optional[str] = None",
+        "detail": "app.models.requests.documentation_request",
+        "documentation": {}
+    },
+    {
+        "label": "TaskInfo",
+        "kind": 6,
+        "importPath": "app.models.requests.documentation_request",
+        "description": "app.models.requests.documentation_request",
+        "peekOfCode": "class TaskInfo(BaseModel):\n    title: str\n    assigned_to: str\n    status: str\n    due_date: Optional[str] = None\nclass DocumentationRequest(BaseModel):\n    project_name: str\n    doc_type: DocType\n    tasks: List[TaskInfo]\n    team_members: List[str]",
+        "detail": "app.models.requests.documentation_request",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentationRequest",
+        "kind": 6,
+        "importPath": "app.models.requests.documentation_request",
+        "description": "app.models.requests.documentation_request",
+        "peekOfCode": "class DocumentationRequest(BaseModel):\n    project_name: str\n    doc_type: DocType\n    tasks: List[TaskInfo]\n    team_members: List[str]\n    project_description: str\n    progress_summary: Optional[str] = None",
+        "detail": "app.models.requests.documentation_request",
+        "documentation": {}
+    },
+    {
+        "label": "MiniPathRequest",
+        "kind": 6,
+        "importPath": "app.models.requests.mini_paths_request",
+        "description": "app.models.requests.mini_paths_request",
+        "peekOfCode": "class MiniPathRequest(BaseModel):\n    task_title: str\n    task_description: str\n    member_skills: List[str]\n    missing_skill: str",
+        "detail": "app.models.requests.mini_paths_request",
+        "documentation": {}
+    },
+    {
+        "label": "TaskItem",
+        "kind": 6,
+        "importPath": "app.models.responses.analysis_response",
+        "description": "app.models.responses.analysis_response",
+        "peekOfCode": "class TaskItem(BaseModel):\n    title: str\n    description: str\n    assigned_to: str\n    skills_needed: List[str]\n    estimated_hours: int\nclass AnalysisResponse(BaseModel):\n    feasibility: str\n    estimated_timeline: str\n    risks: List[str]",
+        "detail": "app.models.responses.analysis_response",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisResponse",
+        "kind": 6,
+        "importPath": "app.models.responses.analysis_response",
+        "description": "app.models.responses.analysis_response",
+        "peekOfCode": "class AnalysisResponse(BaseModel):\n    feasibility: str\n    estimated_timeline: str\n    risks: List[str]\n    suggested_tech_stack: List[str]\n    tasks: List[TaskItem]",
+        "detail": "app.models.responses.analysis_response",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentationResponse",
+        "kind": 6,
+        "importPath": "app.models.responses.documentation_response",
+        "description": "app.models.responses.documentation_response",
+        "peekOfCode": "class DocumentationResponse(BaseModel):\n    doc_type: str\n    project_name: str\n    content: str",
+        "detail": "app.models.responses.documentation_response",
+        "documentation": {}
+    },
+    {
+        "label": "PathStep",
+        "kind": 6,
+        "importPath": "app.models.responses.mini_paths_response",
+        "description": "app.models.responses.mini_paths_response",
+        "peekOfCode": "class PathStep(BaseModel):\n    step: int\n    topic: str\n    resource: str\n    duration: str\nclass MiniPathResponse(BaseModel):\n    missing_skill: str\n    mini_path: List[PathStep]",
+        "detail": "app.models.responses.mini_paths_response",
+        "documentation": {}
+    },
+    {
+        "label": "MiniPathResponse",
+        "kind": 6,
+        "importPath": "app.models.responses.mini_paths_response",
+        "description": "app.models.responses.mini_paths_response",
+        "peekOfCode": "class MiniPathResponse(BaseModel):\n    missing_skill: str\n    mini_path: List[PathStep]",
+        "detail": "app.models.responses.mini_paths_response",
+        "documentation": {}
+    },
+    {
+        "label": "build_analysis_prompt",
+        "kind": 2,
+        "importPath": "app.prompts.analysis_prompt",
+        "description": "app.prompts.analysis_prompt",
+        "peekOfCode": "def build_analysis_prompt(project_idea: str, team: list) -> str:\n    team_str = \"\"\n    for member in team:\n        skills = \", \".join(member[\"skills\"])\n        team_str += f\"- {member['name']} | {member['role']} | {skills} | {member['hours_per_week']}h/week\\n\"\n    return f\"\"\"\n{ANALYSIS_FEW_SHOT_EXAMPLES}\n--- NOW GENERATE ---\nProject idea: {project_idea}\nTeam:",
+        "detail": "app.prompts.analysis_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "ANALYSIS_SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "app.prompts.analysis_prompt",
+        "description": "app.prompts.analysis_prompt",
+        "peekOfCode": "ANALYSIS_SYSTEM_PROMPT = \"\"\"\nYou are an expert software project manager and technical lead.\nGiven a project idea and a team's skills, analyze the project and produce:\n1. Feasibility assessment\n2. Estimated timeline\n3. Key risks\n4. Suggested tech stack based on team skills\n5. Task breakdown assigned to the right team members\nAlways respond ONLY with valid JSON. No explanation, no markdown.\nFormat:",
+        "detail": "app.prompts.analysis_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "ANALYSIS_FEW_SHOT_EXAMPLES",
+        "kind": 5,
+        "importPath": "app.prompts.analysis_prompt",
+        "description": "app.prompts.analysis_prompt",
+        "peekOfCode": "ANALYSIS_FEW_SHOT_EXAMPLES = \"\"\"\n--- EXAMPLE 1 ---\nProject idea: Build a food delivery mobile app with real-time tracking\nTeam:\n- Ahmed | Backend | Node.js, MongoDB, Express | 20h/week\n- Sara | Frontend | React Native, Tailwind | 15h/week\n- Omar | DevOps | Docker, AWS | 10h/week\nOutput:\n{\n  \"feasibility\": \"High\",",
+        "detail": "app.prompts.analysis_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "build_documentation_prompt",
+        "kind": 2,
+        "importPath": "app.prompts.documentation_prompt",
+        "description": "app.prompts.documentation_prompt",
+        "peekOfCode": "def build_documentation_prompt(project_name: str, doc_type: str,\n                                tasks: list, team_members: list,\n                                project_description: str,\n                                progress_summary: str = None) -> str:\n    tasks_str = \", \".join([f\"{t['title']} - {t['assigned_to']} - {t['status']}\" for t in tasks])\n    team_str = \", \".join(team_members)\n    progress_str = progress_summary or \"No summary provided\"\n    return f\"\"\"\n{DOCUMENTATION_FEW_SHOT_EXAMPLES}\n--- NOW GENERATE ---",
+        "detail": "app.prompts.documentation_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "DOCUMENTATION_SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "app.prompts.documentation_prompt",
+        "description": "app.prompts.documentation_prompt",
+        "peekOfCode": "DOCUMENTATION_SYSTEM_PROMPT = \"\"\"\nYou are an expert software engineering documentation writer.\nGiven project data, generate professional technical documentation.\nThe output must be clean, structured, and ready to use.\nAlways respond ONLY with valid JSON. No explanation, no markdown outside the content field.\nFormat:\n{\n  \"doc_type\": \"...\",\n  \"project_name\": \"...\",\n  \"content\": \"full document text here\"",
+        "detail": "app.prompts.documentation_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "DOCUMENTATION_FEW_SHOT_EXAMPLES",
+        "kind": 5,
+        "importPath": "app.prompts.documentation_prompt",
+        "description": "app.prompts.documentation_prompt",
+        "peekOfCode": "DOCUMENTATION_FEW_SHOT_EXAMPLES = \"\"\"\n--- EXAMPLE 1 — SRS ---\nProject: TaskFlow\nDoc type: SRS\nTeam: Ahmed (Backend), Sara (Frontend)\nTasks: [Login API - Ahmed - Done, Dashboard UI - Sara - In Progress]\nDescription: A project management tool for small teams\nOutput:\n{\n  \"doc_type\": \"SRS\",",
+        "detail": "app.prompts.documentation_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "build_mini_paths_prompt",
+        "kind": 2,
+        "importPath": "app.prompts.mini_paths_prompt",
+        "description": "app.prompts.mini_paths_prompt",
+        "peekOfCode": "def build_mini_paths_prompt(task_title: str, task_description: str,\n                             member_skills: list, missing_skill: str) -> str:\n    skills_str = \", \".join(member_skills)\n    return f\"\"\"\n{MINI_PATHS_FEW_SHOT_EXAMPLES}\n--- NOW GENERATE ---\nTask: {task_title} — {task_description}\nMember skills: {skills_str}\nMissing skill: {missing_skill}\nOutput:",
+        "detail": "app.prompts.mini_paths_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "MINI_PATHS_SYSTEM_PROMPT",
+        "kind": 5,
+        "importPath": "app.prompts.mini_paths_prompt",
+        "description": "app.prompts.mini_paths_prompt",
+        "peekOfCode": "MINI_PATHS_SYSTEM_PROMPT = \"\"\"\nYou are an expert learning path designer for software developers.\nGiven a task a team member needs to complete and a skill they are missing,\ngenerate a short, focused learning path to fill that gap quickly.\nAlways respond ONLY with valid JSON. No explanation, no markdown.\nFormat:\n{\n  \"missing_skill\": \"...\",\n  \"mini_path\": [\n    {\"step\": 1, \"topic\": \"...\", \"resource\": \"...\", \"duration\": \"...\"},",
+        "detail": "app.prompts.mini_paths_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "MINI_PATHS_FEW_SHOT_EXAMPLES",
+        "kind": 5,
+        "importPath": "app.prompts.mini_paths_prompt",
+        "description": "app.prompts.mini_paths_prompt",
+        "peekOfCode": "MINI_PATHS_FEW_SHOT_EXAMPLES = \"\"\"\n--- EXAMPLE 1 ---\nTask: Build a REST API using FastAPI\nMember skills: Python, Flask\nMissing skill: FastAPI\nOutput:\n{\n  \"missing_skill\": \"FastAPI\",\n  \"mini_path\": [\n    {\"step\": 1, \"topic\": \"FastAPI Installation & Project Structure\", \"resource\": \"https://fastapi.tiangolo.com/tutorial/\", \"duration\": \"1h\"},",
+        "detail": "app.prompts.mini_paths_prompt",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI(\n    title=settings.APP_NAME,\n    description=\"AI Microservice for Syntra.AI — 3 Features: Mini Learning Paths, AI Analysis, Auto Documentation\",\n    version=\"1.0.0\",\n    docs_url=\"/docs\",\n    redoc_url=\"/redoc\"\n)\n# Register custom exception handler\napp.add_exception_handler(AIServiceException, ai_exception_handler)\n# Register all routes",
+        "detail": "app.main",
+        "documentation": {}
+    }
+]

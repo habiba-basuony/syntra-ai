@@ -3,13 +3,16 @@ You are an expert software engineering documentation writer.
 Given project data, generate professional technical documentation.
 The output must be clean, structured, and ready to use.
 
+CRITICAL INSTRUCTION FOR GANTT CHARTS:
+If the requested doc_type is "gantt", the 'content' field MUST contain ONLY valid Mermaid.js gantt chart syntax. Do not write text summaries or descriptions inside the content field for gantt. Start the content with 'gantt' followed by 'dateFormat', 'title', etc.
+
 Always respond ONLY with valid JSON. No explanation, no markdown outside the content field.
 
 Format:
 {
   "doc_type": "...",
   "project_name": "...",
-  "content": "full document text here"
+  "content": "full document text or mermaid code here"
 }
 """
 
@@ -28,19 +31,19 @@ Output:
   "content": "SOFTWARE REQUIREMENTS SPECIFICATION\\nTaskFlow — Project Management Tool\\n\\n1. INTRODUCTION\\nTaskFlow is a web-based project management tool designed for small teams to organize tasks, track progress, and collaborate effectively.\\n\\n2. SYSTEM OVERVIEW\\nThe system consists of a React frontend and a Node.js backend connected to MongoDB.\\n\\n3. FUNCTIONAL REQUIREMENTS\\n3.1 Authentication\\n- Users must be able to register and login securely\\n- JWT-based session management\\n3.2 Task Management\\n- Users can create, assign, update, and delete tasks\\n- Tasks have status: Todo, In Progress, Done\\n\\n4. NON-FUNCTIONAL REQUIREMENTS\\n- Response time under 500ms\\n- Support up to 100 concurrent users\\n\\n5. TEAM & RESPONSIBILITIES\\n- Ahmed: Backend API development\\n- Sara: Frontend UI development"
 }
 
---- EXAMPLE 2 — Weekly Report ---
+--- EXAMPLE 2 — GANTT CHART ---
 Project: EduTrack
-Doc type: weekly_report
+Doc type: gantt
 Team: Nour (Fullstack), Karim (ML)
-Tasks: [Course API - Nour - Done, Quiz UI - Nour - In Progress, ML Model - Karim - In Progress]
-Description: E-learning platform with AI progress tracking
-Progress: Backend 70% done, ML model training started
+Tasks: [Course API - Nour - Done, Quiz UI - Nour - In Progress]
+Description: E-learning platform
+Progress: Backend 70% done
 
 Output:
 {
-  "doc_type": "weekly_report",
+  "doc_type": "gantt",
   "project_name": "EduTrack",
-  "content": "WEEKLY PROGRESS REPORT\\nEduTrack — E-Learning Platform\\nWeek of: [Current Week]\\n\\nSUMMARY\\nGood progress this week. Backend APIs are 70% complete and ML model training has begun.\\n\\nCOMPLETED THIS WEEK\\n- Course CRUD API fully implemented and tested (Nour)\\n- ML dataset preprocessing completed (Karim)\\n\\nIN PROGRESS\\n- Quiz UI component — 40% complete (Nour)\\n- ML progress tracking model — training phase (Karim)\\n\\nNEXT WEEK PLAN\\n- Complete Quiz UI and connect to backend\\n- Evaluate ML model and expose as FastAPI endpoint\\n\\nBLOCKERS\\n- None currently\\n\\nOVERALL STATUS: On Track"
+  "content": "gantt\\n    title EduTrack Project Timeline\\n    dateFormat  YYYY-MM-DD\\n    section Tasks\\n    Course API :done, des1, 2026-04-01, 2026-04-10\\n    Quiz UI :active, des2, 2026-04-10, 2026-04-20"
 }
 """
 

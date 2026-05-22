@@ -682,6 +682,14 @@
         "documentation": {}
     },
     {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
         "label": "router",
         "importPath": "app.api.v1.router",
         "description": "app.api.v1.router",
@@ -778,7 +786,7 @@
         "kind": 5,
         "importPath": "app.api.v1.router",
         "description": "app.api.v1.router",
-        "peekOfCode": "router = APIRouter(prefix=\"/api/ai\")\nrouter.include_router(mini_paths.router, tags=[\"Mini Learning Paths\"])\nrouter.include_router(analysis.router, tags=[\"AI Analysis\"])\nrouter.include_router(documentation.router, tags=[\"Auto Documentation\"])",
+        "peekOfCode": "router = APIRouter(prefix=\"/api/ai\")\nrouter.include_router(mini_paths.router, tags=[\"Mini Learning Paths\"])\nrouter.include_router(analysis.router, tags=[\"AI Analysis\"])\n#router.include_router(documentation.router, tags=[\"Auto Documentation\"])",
         "detail": "app.api.v1.router",
         "documentation": {}
     },
@@ -967,7 +975,7 @@
         "kind": 5,
         "importPath": "app.prompts.documentation_prompt",
         "description": "app.prompts.documentation_prompt",
-        "peekOfCode": "DOCUMENTATION_SYSTEM_PROMPT = \"\"\"\nYou are an expert software engineering documentation writer.\nGiven project data, generate professional technical documentation.\nThe output must be clean, structured, and ready to use.\nAlways respond ONLY with valid JSON. No explanation, no markdown outside the content field.\nFormat:\n{\n  \"doc_type\": \"...\",\n  \"project_name\": \"...\",\n  \"content\": \"full document text here\"",
+        "peekOfCode": "DOCUMENTATION_SYSTEM_PROMPT = \"\"\"\nYou are an expert software engineering documentation writer.\nGiven project data, generate professional technical documentation.\nThe output must be clean, structured, and ready to use.\nCRITICAL INSTRUCTION FOR GANTT CHARTS:\nIf the requested doc_type is \"gantt\", the 'content' field MUST contain ONLY valid Mermaid.js gantt chart syntax. Do not write text summaries or descriptions inside the content field for gantt. Start the content with 'gantt' followed by 'dateFormat', 'title', etc.\nAlways respond ONLY with valid JSON. No explanation, no markdown outside the content field.\nFormat:\n{\n  \"doc_type\": \"...\",",
         "detail": "app.prompts.documentation_prompt",
         "documentation": {}
     },
@@ -1012,7 +1020,7 @@
         "kind": 5,
         "importPath": "app.main",
         "description": "app.main",
-        "peekOfCode": "app = FastAPI(\n    title=settings.APP_NAME,\n    description=\"AI Microservice for Syntra.AI — 3 Features: Mini Learning Paths, AI Analysis, Auto Documentation\",\n    version=\"1.0.0\",\n    docs_url=\"/docs\",\n    redoc_url=\"/redoc\"\n)\n# Register custom exception handler\napp.add_exception_handler(AIServiceException, ai_exception_handler)\n# Register all routes",
+        "peekOfCode": "app = FastAPI(\n    title=settings.APP_NAME,\n    description=\"AI Microservice for Syntra.AI — 3 Features: Mini Learning Paths, AI Analysis, Auto Documentation\",\n    version=\"1.0.0\",\n    docs_url=\"/docs\",\n    redoc_url=\"/redoc\"\n)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"], ",
         "detail": "app.main",
         "documentation": {}
     }
